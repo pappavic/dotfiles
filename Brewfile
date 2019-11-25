@@ -35,10 +35,7 @@ brew 'yarn'
 
 # Apps
 cask 'aerial'
-cask 'alfred'
-cask 'bartender'
 cask 'caffeine'
-cask 'discord'
 cask 'docker'
 cask 'firefox'
 cask 'github'
@@ -49,18 +46,12 @@ cask 'insomnia'
 cask 'java'
 cask 'mysqlworkbench'
 cask 'phpstorm'
-cask 'screenflow'
 cask 'skype'
-cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
-cask 'telegram-desktop'
 cask 'tor-browser'
 cask 'transmission'
 cask 'transmit'
-cask 'vagrant'
-cask 'virtualbox' # Might need to allow access in Security settings
-cask 'virtualbox-extension-pack'
 cask 'vlc'
 
 # Quicklook
@@ -81,13 +72,12 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
-mas '1Password', id: 1333542190
-mas 'Byword', id: 420212497
+mas 'Amphetamine', id: 937984704
+mas 'Bear', id: 1091189122
+mas 'Bible Study', id: 472790630
 mas 'Giphy Capture', id: 668208984
-mas 'Keynote', id: 409183694
-mas 'Sip', id: 507257563
-mas 'Spark', id: 1176895641
+mas 'Magnet', id: 441258766
+mas 'Slack', id: 803453959
 mas 'The Unarchiver', id: 425424353
-mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
+mas 'WeChat', id: 836500024
 mas 'WhatsApp', id: 1147396723 

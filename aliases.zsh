@@ -27,12 +27,12 @@ alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
 alias watch="npm run watch"
 
 # Vagrant
-alias v="vagrant global-status"
-alias vup="vagrant up"
-alias vhalt="vagrant halt"
-alias vssh="vagrant ssh"
-alias vreload="vagrant reload"
-alias vrebuild="vagrant destroy --force && vagrant up"
+#alias v="vagrant global-status"
+#alias vup="vagrant up"
+#alias vhalt="vagrant halt"
+#alias vssh="vagrant ssh"
+#alias vreload="vagrant reload"
+#alias vrebuild="vagrant destroy --force && vagrant up"
 
 # Docker
 alias docker-composer="docker-compose"
