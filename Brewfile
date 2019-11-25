@@ -75,9 +75,11 @@ cask 'font-source-serif-pro'
 mas 'Amphetamine', id: 937984704
 mas 'Bear', id: 1091189122
 mas 'Bible Study', id: 472790630
+mas 'Flycut (Clipboard manager)', id: 442160987
 mas 'Giphy Capture', id: 668208984
 mas 'Magnet', id: 441258766
 mas 'Slack', id: 803453959
 mas 'The Unarchiver', id: 425424353
+mas 'Trello', id: 1278508951
 mas 'WeChat', id: 836500024
 mas 'WhatsApp', id: 1147396723 
