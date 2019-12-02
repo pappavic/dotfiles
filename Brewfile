@@ -35,7 +35,6 @@ brew 'yarn'
 
 # Apps
 cask 'aerial'
-cask 'caffeine'
 cask 'docker'
 cask 'firefox'
 cask 'github'
@@ -44,7 +43,6 @@ cask 'google-chrome'
 cask 'gpg-suite'
 cask 'insomnia'
 cask 'java'
-cask 'mysqlworkbench'
 cask 'phpstorm'
 cask 'skype'
 cask 'sublime-text'
@@ -53,6 +51,7 @@ cask 'tor-browser'
 cask 'transmission'
 cask 'transmit'
 cask 'vlc'
+cask 'zoomus'
 
 # Quicklook
 cask 'qlcolorcode'
