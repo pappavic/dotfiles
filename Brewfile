@@ -36,6 +36,7 @@ brew 'yarn'
 # Apps
 cask 'aerial'
 cask 'docker'
+cask 'dropbox'
 cask 'firefox'
 cask 'github'
 cask 'google-backup-and-sync'
