@@ -51,7 +51,6 @@ cask 'sublime-text'
 cask 'tableplus'
 cask 'tor-browser'
 cask 'transmission'
-cask 'transmit'
 cask 'vlc'
 cask 'zoomus'
 
@@ -77,6 +76,7 @@ mas 'Amphetamine', id: 937984704
 mas 'Bear', id: 1091189122
 mas 'Bible Study', id: 472790630
 mas 'Flycut (Clipboard manager)', id: 442160987
+mas 'ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client', id: 412448059
 mas 'Giphy Capture', id: 668208984
 mas 'Magnet', id: 441258766
 mas 'Slack', id: 803453959
